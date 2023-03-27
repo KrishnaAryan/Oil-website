@@ -1,0 +1,134 @@
+----------------------hamarahome.in--------------------------
+Registry Domain ID: D38C0F5AB2EBF4B27AEF575C9503C70FE-IN
+Registrar WHOIS Server:
+Registrar URL: http://www.key-systems.net
+Creation Date: 2022-10-02T14:03:34Z
+Registrant Organization:
+Registrant Street: Flat no G1,Chandrodaya residency, Shirdi Sai Nagar colony
+Registrant Street: Road no 2, Manikonda
+Registrant Street:
+Registrant City: Hyderabad
+Registrant State/Province: Telangana
+Registrant Postal Code: 500084
+Registrant Country: IN
+Registrant Phone: +91.9391230076
+Registrant Email: malisettikrishnavarun@gmail.com
+Admin Name: Krishna Varun Malisetti
+Admin Organization:
+Admin Street: Flat no G1,Chandrodaya residency, Shirdi Sai Nagar colony
+Admin Street: Road no 2, Manikonda
+Admin Street:
+Admin City: Hyderabad
+Admin State/Province: Telangana
+Admin Postal Code: 500084
+Admin Country: IN
+Admin Phone: +91.9391230076
+Admin Phone Ext:
+Admin Fax:
+Admin Fax Ext:
+Admin Email: malisettikrishnavarun@gmail.com
+Registry Tech ID: C91E47FC006F74ED98CBC38A562F9AA16-IN
+Tech Name: Krishna Varun Malisetti
+Tech Organization:
+Tech Street: Flat no G1,Chandrodaya residency, Shirdi Sai Nagar colony
+Tech Street: Road no 2, Manikonda
+Tech City: Hyderabad
+Tech State/Province: Telangana
+Tech Postal Code: 500084
+Tech Country: IN
+Tech Phone: +91.9391230076
+Tech Email: malisettikrishnavarun@gmail.com
+Name Server: ns-cloud-c3.googledomains.com
+Name Server: ns-cloud-c1.googledomains.com
+Name Server: ns-cloud-c4.googledomains.com
+Name Server: ns-cloud-c2.googledomains.com
+DNSSEC: signedDelegation
+
+
+
+Name:Krishna Varun Malisetti
+Street:Flat no G1,Chandrodaya residency, Shirdi Sai Nagar colony
+Road no 2, Manikonda
+City:Hyderabad
+State:Telangana
+Postal Code:500084
+Country:IN
+Phone:+91.9391230076
+Email:malisettikrishnavarun@gmail.com
+
+
+
+
++919347217349,
++919701341827,
++919246266820,
+
++919848973257,
++919849604304,
++919000137189,
+
++919959508555,
++919959509555,
++919494809001,
+
++919393772160,
++919676869793,
++919848510863,
+
++918897297733,
++918197322559,
++918977932896,
+
++919885498877,
++919849331009,
++919989545454,
+
++919391103192,
++919154535232,
+
+[19:21, 10/12/,2022] Xtender: c
++919010570780,
++919160528853,
++919247258386,
+
++919885227304,
+,
+B,ng
+,
++918892157055,
++919742034500,
++917829606606,
+
++919164577100,
++919743033676,
++918050933298,
+
++91994597789,
++919449935106,
++919880447542,
+
++918660087678,
++919916106088,
++918553563163,
+
++917204181091,
++917411782827,
++919986169366,
+
++918971784325,
++917760255672,
++919738638474,
+
++919980797474,
++919738539453,
++918892183521,
+
++919900158544,
++918892537585,
++919110604817,
+
++919845695888,
++918951801903,
++919071395052,
+
++919743426089,
